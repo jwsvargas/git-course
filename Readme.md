@@ -14,4 +14,4 @@ Vamos editar para restar a facilidade diff.
 Aqui também mudou.
 Aqui também.
 
-
+Fazendo uma edição para subir no repositório remoto.
